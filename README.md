@@ -79,4 +79,4 @@ npm run build
 
 ## Технології
 
-Electron · React 18 · TypeScript · Vite · Tailwind CSS · React Flow · Zustand
+Electron · React 19 · TypeScript · Vite · Tailwind CSS · React Flow · Zustand
