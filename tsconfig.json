@@ -15,11 +15,10 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
-    "baseUrl": ".",
     "paths": {
-      "@/*": ["src/renderer/*"],
-      "@main/*": ["src/main/*"],
-      "@preload/*": ["src/preload/*"]
+      "@/*": ["./src/renderer/*"],
+      "@main/*": ["./src/main/*"],
+      "@preload/*": ["./src/preload/*"]
     }
   },
   "include": ["src"]
